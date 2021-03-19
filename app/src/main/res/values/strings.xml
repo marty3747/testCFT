@@ -1,17 +1,19 @@
 <resources>
     <string name="app_name">TestCFT</string>
-    <string name="TextViewValue">Выберете валюту</string>
+    <string name="TextViewValue">Выберете валюту в которую надо перевести</string>
     <string name="EditTextValueRubl">Введите количество рублей для перевода</string>
     <string name="showValute">Показать валюту</string>
-    <string name="textViewTransferValute">Выберете валюту для перевода</string>
+    <string name="textViewTransferValute">Выберете валюту в которую надо перевести</string>
     <string name="sumForTransfer">Введите суммы для перевода</string>
     <string name="enterRubl">Введите количество рублей</string>
     <string name="btnChekValute">Рассчитать</string>
+    <string name="textViewSumCount">Введите сумму для расчета</string>
+    <string name="textViewResultCount">Результат расчета:</string>
 
     <string-array name="arrayOfValute" >
         <item>AUD</item>
         <item>AZN</item>
-        <item>GB</item>
+        <item>GBP</item>
         <item>AMD</item>
         <item>BYN</item>
         <item>BGN</item>
